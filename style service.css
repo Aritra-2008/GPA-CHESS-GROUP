@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient( rgba(0,0,0,0.6) , rgba(0,0,0,0.6)), url(chess-4.jpg);
+background-size: cover;
+background-position: center;
+color: rgb(255, 255, 255);
+height: 109vh;
+}
+
+
+.service{
+           margin: 90px auto;
+           text-align: center;
+           color: rgb(255, 255, 255);
+
+
+
+}
+
+.service h1{
+              font-family: sans-serif;
+              letter-spacing: 1px;
+
+}
+
+.service h1:after{
+                     content: '';
+                     background: rgb(255, 255, 255);
+                     display: block;
+                     width: 150px;
+                     height: 3px;
+                     margin: 10px auto ;
+                     
+               
+}
+
+h3{
+     color: rgb(253, 252, 252);
+}
+
+p{
+    color:  rgb(253, 252, 252);
+}
+
+.icon i {
+       size: 100px;
+      
+}
+.old h3:hover{
+                color: red;
+}
+.new{
+      margin-left: 1000px;
+      margin-top: -480px;
+}
+.new h3:hover
+{
+     color: red;
+}
+.a p {
+       color: transparent;
+}

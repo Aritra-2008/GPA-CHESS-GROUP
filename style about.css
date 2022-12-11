@@ -1,0 +1,55 @@
+body{
+    font-family: sans-serif;
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(chess-4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.about-text{
+              color: white;
+              margin-left: 900px;
+              margin-top: 300px;
+              
+              
+
+           
+
+             
+}
+
+.main{
+       
+       width: 100x;
+       size: 1125px;
+       margin: 0 auto;
+       display: flex;
+       align-items: center;
+       justify-content: space-around;
+       margin-left: 400px;
+       margin-top: 0px;
+       position: absolute;
+
+       
+       
+
+}
+
+.about{
+         position: relative;
+}
+
+.about-text h1 {
+                 font-size: 50px;
+                 font-family: Georgia, 'Times New Roman', Times, serif;
+                 font-style: italic;
+                 color: red;
+}
+
+.about-text h5 {
+                  font-size: 20px;
+                  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                  font-style: italic;
+                  color: aqua;
+}
